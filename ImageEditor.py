@@ -111,3 +111,5 @@ while True:
 
 # Close the GUI window
 window.close()
+ 
+# Thanks
