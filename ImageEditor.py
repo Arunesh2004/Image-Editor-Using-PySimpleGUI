@@ -1,3 +1,5 @@
+# pip install pillow 
+
 import PySimpleGUI as sg
 from PIL import Image, ImageFilter, ImageOps
 from io import BytesIO
